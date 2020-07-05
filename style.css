@@ -148,3 +148,8 @@ body {
 .profile-content-wrapper h1 {
     margin-top: 0px;
 }
+
+.content-wrapper-about {
+    margin-left: 210px;
+    margin-right: 210px;
+}
